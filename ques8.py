@@ -1,0 +1,2 @@
+s=set()
+del s
